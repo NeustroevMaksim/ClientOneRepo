@@ -14,6 +14,7 @@ namespace TestApp
             Console.WriteLine(feature.Title);
             Console.WriteLine(client.Description);
             Console.WriteLine(feature.ClientApp());
+            Console.WriteLine("Hello base");
         }
     }
 }
