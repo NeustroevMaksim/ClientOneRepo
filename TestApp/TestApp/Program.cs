@@ -9,8 +9,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            var feature = new BaseFeature();
-            Console.WriteLine(feature.Name);
+            Console.WriteLine("Hello base");
         }
     }
 }
