@@ -1,0 +1,1 @@
+D:\git\ClientOneRepo\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache

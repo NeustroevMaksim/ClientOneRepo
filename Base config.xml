@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Config>
   <Head Name="Client One repo"></Head>
+  <Lists>
+    <List Name="ClientOnly"></List>
+    <List Name="ClientOnly 2">Content</List>
+  </Lists>
 </Config>
