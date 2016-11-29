@@ -1,0 +1,4 @@
+D:\git\BaseRepo\TestApp\TestApp\bin\Debug\TestApp.exe
+D:\git\BaseRepo\TestApp\TestApp\bin\Debug\TestApp.pdb
+D:\git\BaseRepo\TestApp\TestApp\obj\Debug\TestApp.exe
+D:\git\BaseRepo\TestApp\TestApp\obj\Debug\TestApp.pdb
