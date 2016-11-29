@@ -11,8 +11,9 @@ namespace TestApp
         {
             ClientFeature client = new ClientFeature();
             var feature = new BaseFeature();
-            Console.WriteLine(feature.Name);
+            Console.WriteLine(feature.Title);
             Console.WriteLine(client.Description);
+            Console.WriteLine(feature.ClientApp());
         }
     }
 }

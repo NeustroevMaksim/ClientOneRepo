@@ -7,10 +7,14 @@ namespace TestApp
 {
     public class BaseFeature
     {
-        public string Name { get; set; }
+        public string Title { get; set; }
         public BaseFeature()
         {
-            Name = "Base";
+            Title = "Changed for client";
+        }
+        public string ClientApp()
+        {
+            return "ClientApp";
         }
     }
 }
