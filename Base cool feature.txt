@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Cool feature for Base and Client One.
+=======
+Cool updated feature for Base.
+Several updates on Base.
+>>>>>>> baserepMaster
