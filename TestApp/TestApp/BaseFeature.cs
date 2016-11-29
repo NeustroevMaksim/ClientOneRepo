@@ -16,5 +16,11 @@ namespace TestApp
         {
             return "ClientApp";
         }
+
+        public void FunFeature()
+        {
+            Console.WriteLine("Implemented in base");
+        }
+
     }
 }
